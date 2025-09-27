@@ -2,3 +2,5 @@
 *.pkl
 *.json
 *.env.idea/
+credentials.json
+.env
