@@ -1,4 +1,4 @@
 
 *.pkl
 *.json
-*.env
+*.env.idea/
